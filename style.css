@@ -1,0 +1,20 @@
+.quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #orange;
+    background-color: #blue;
+    text-align: center;
+}
+
+#resultContainer {
+    margin-top: 40px;
+}
+
+.correct-answer {
+    background-color: #blue;
+}
+
+.incorrect-answer {
+    background-color: #red;
+}
